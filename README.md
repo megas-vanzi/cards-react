@@ -1,4 +1,3 @@
 # cards-react
 Proyecto Cards con React
-https://peaceful-goodall-9992ae.netlify.app/
-https://cards-react-eight.vercel.app/
+https://eloquent-beaver-5d931a.netlify.app
